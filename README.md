@@ -8,4 +8,4 @@
 
 <h3>Link Página Web</h3>
 
-<a href="https://jcondet.github.io/taller-9-full-stack/](https://github.com/jcondet/Prueba/blob/main/Mockupn/INDEX/HOME.html)" target="_blank">Diseño Curso Virtual</a>
+<a href="https://github.com/jcondet/Prueba/blob/main/Mockupn/INDEX/HOME.html" target="_blank">Diseño Curso Virtual</a>
